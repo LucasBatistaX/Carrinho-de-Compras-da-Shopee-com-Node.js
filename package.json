@@ -1,0 +1,21 @@
+{
+  "name": "carrinho-de-compras-da-shopee-com-node",
+  "version": "1.0.0",
+  "description": "Simulador de carrinho de compras com Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBatistaX/Carrinho-de-Compras-da-Shopee-com-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LucasBatistaX/Carrinho-de-Compras-da-Shopee-com-Node.js/issues"
+  },
+  "homepage": "https://github.com/LucasBatistaX/Carrinho-de-Compras-da-Shopee-com-Node.js#readme"
+}
